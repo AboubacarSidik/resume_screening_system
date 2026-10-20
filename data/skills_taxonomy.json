@@ -1,0 +1,56 @@
+{
+    "programming_languages": {
+        "python": ["python"],
+        "java": ["java"],
+        "javascript": ["javascript", "js"],
+        "typescript": ["typescript", "ts"],
+        "c++": ["c++", "cpp"],
+        "c#": ["c#", "csharp"],
+        "go": ["golang"],
+        "ruby": ["ruby"],
+        "php": ["php"]
+    },
+    "web_frameworks": {
+        "django": ["django"],
+        "flask": ["flask"],
+        "fastapi": ["fastapi"],
+        "react": ["react", "react.js", "reactjs"],
+        "angular": ["angular"],
+        "vue": ["vue", "vue.js", "vuejs"],
+        "node.js": ["node.js", "nodejs", "node"],
+        "spring": ["spring", "spring boot"]
+    },
+    "databases": {
+        "sql": ["sql"],
+        "postgresql": ["postgresql", "postgres"],
+        "mysql": ["mysql"],
+        "mongodb": ["mongodb", "mongo"],
+        "redis": ["redis"]
+    },
+    "cloud_devops": {
+        "aws": ["aws", "amazon web services"],
+        "azure": ["azure"],
+        "gcp": ["gcp", "google cloud"],
+        "docker": ["docker"],
+        "kubernetes": ["kubernetes", "k8s"],
+        "ci/cd": ["ci/cd", "continuous integration", "jenkins", "github actions"],
+        "terraform": ["terraform"]
+    },
+    "data_ml": {
+        "machine learning": ["machine learning", "ml"],
+        "deep learning": ["deep learning"],
+        "pandas": ["pandas"],
+        "numpy": ["numpy"],
+        "scikit-learn": ["scikit-learn", "sklearn"],
+        "tensorflow": ["tensorflow"],
+        "pytorch": ["pytorch"]
+    },
+    "tools_practices": {
+        "git": ["git", "github", "gitlab"],
+        "rest apis": ["rest api", "rest apis", "restful", "rest"],
+        "graphql": ["graphql"],
+        "linux": ["linux", "unix"],
+        "agile": ["agile", "scrum"],
+        "testing": ["unit testing", "pytest", "unittest", "tdd"]
+    }
+}

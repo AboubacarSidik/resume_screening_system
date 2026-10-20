@@ -1,0 +1,2 @@
+Chloe Diallo - Java Developer
+7 years of Java and Spring Boot development, REST APIs, MongoDB, Kubernetes.

@@ -1,0 +1,4 @@
+Alice Martin - Backend Engineer
+5 years of experience building web services with Python and Django.
+Designed RESTful APIs backed by PostgreSQL and SQL query optimisation.
+Deployed services with Docker on AWS. Daily use of Git in an Agile/Scrum team.
